@@ -18,10 +18,10 @@ This repository contains my C++ studies, programming exercises, coding challenge
 
 ### C++ Fundamentals
 
-  - [ ] Hello World
-  - [ ] Variables and data types
-  - [ ] Constants
-  - [ ] Operators and expressions
+  - [x] Hello World
+  - [x] Variables and data types
+  - [x] Constants
+  - [x] Operators and expressions
   - [ ] Type conversions
   - [ ] Input and output
   - [ ] Comments
