@@ -22,9 +22,9 @@ This repository contains my C++ studies, programming exercises, coding challenge
   - [x] Variables and data types
   - [x] Constants
   - [x] Operators and expressions
-  - [ ] Type conversions
-  - [ ] Input and output
-  - [ ] Comments
+  - [x] Type conversions
+  - [x] Input and output
+  - [x] Comments
   
   ### Control Flow
   
