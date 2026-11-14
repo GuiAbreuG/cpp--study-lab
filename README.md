@@ -28,9 +28,9 @@ This repository contains my C++ studies, programming exercises, coding challenge
   
   ### Control Flow
   
-  - [ ] Conditional statements (if, else if, else)
-  - [ ] Switch statements
-  - [ ] For loops
+  - [x] Conditional statements (if, else if, else)
+  - [x] Switch statements
+  - [x] For loops
   - [ ] While loops
   - [ ] Do-while loops
   - [ ] Break and continue
